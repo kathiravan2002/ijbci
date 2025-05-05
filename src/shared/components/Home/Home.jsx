@@ -144,7 +144,7 @@ useEffect(() => {
                   The International Journal of Business and Commerce Insights is a peer-reviewed academic journal dedicated to publishing high-quality research in the fields of business, commerce, and management. IJBCI provides a global platform for scholars, researchers, and professionals to share innovative ideas, strategic insights, and practical solutions. The journal aims to foster a deeper understanding of business trends, commercial practices, and emerging market dynamics. Contributions from diverse disciplines that impact commerce and trade are encouraged.</p>
 
                 <div className="lg:pl-6 flex justify-center items-center lg:justify-start">
-                  <Link to="" target="_blank" rel="noopener noreferrer">
+                  <Link to="https://www.ijbci.com/ijbci/index.php/ijbci/about/submissions" target="_blank" rel="noopener noreferrer">
                     <button className="hover:text-[#8A42A7] poppins-regular hover:bg-white lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-white bg-[#8A42A7] border-2 border-white hover:border-2 hover:border-[#8A42A7]  transition-duration duration-300 rounded-lg  ">
                       <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                     </button>

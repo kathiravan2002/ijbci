@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from "/assets/ojs_brand.jpg"; 
 import { Link } from 'react-router-dom';
-import Logo from '/assets/ijbci.png'
 
 
 const Footer = () => {
@@ -29,8 +28,8 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-6">
         <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-6  relative ">
           <div>         
-             {/* <img src={Logo} alt="logo" width="150px" height="150px" className=" lg:mt-2 mt-4 mb-4"/> */}
-             <h2 className=" lg:mt-2 mt-4 mb-4 namdhinggo-extrabold text-3xl">IJBCI</h2>
+             <img src="/assets/IJBCI.png" alt="logo" width="150px" height="150px" className=" lg:mt-2 mt-4 mb-4"/>
+             {/* <h2 className=" lg:mt-2 mt-4 mb-4 namdhinggo-extrabold text-3xl">IJBCI</h2> */}
             <div className="flex items-center mb-2">
               <svg
                 className="w-4 h-4 sm:w-5 sm:h-5 mr-2"

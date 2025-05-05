@@ -25,7 +25,7 @@ function Articalprocessing() {
                             <p className="  text-white mb-3 lg:mb-4   poppins-medium max-w-[1094px] lg:pl-6"> All submitted manuscripts to IJBCI undergo a rigorous and transparent article processing workflow, including initial screening, peer review, and final editorial approval. Authors are required to follow the journal’s formatting and ethical guidelines to ensure quality and integrity. Upon acceptance, articles are copyedited and prepared for publication to maintain high scholarly standards. IJBCI is committed to timely processing while upholding the excellence of published research.</p>
 
                             <div className="lg:pl-6 flex justify-center items-center lg:justify-start">
-                                <Link to="" target="_blank" rel="noopener noreferrer">
+                                <Link to="https://www.ijbci.com/ijbci/index.php/ijbci/about/submissions" target="_blank" rel="noopener noreferrer">
                                     <button className="hover:text-[#8A42A7] poppins-regular hover:bg-white lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-white bg-[#8A42A7] border-2 border-white hover:border-2 hover:border-[#8A42A7]  transition-duration duration-300 rounded-lg  ">
                                         <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                                     </button>

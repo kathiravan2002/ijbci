@@ -2,7 +2,6 @@ import React, { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import NavItems from "./NavItems";
 import { GiHamburgerMenu } from "react-icons/gi";
-import Logo from '/assets/ijbci.png'
 import { IoIosArrowDropdown } from "react-icons/io";
 
 const Header = () => {
@@ -84,10 +83,10 @@ const Header = () => {
             <div className="w-full flex  items-center justify-between ">             
               <div className=" flex justify-center items-center h-full text-white z-10 " >
                 {/* <div className=" " ></div> */}
-                {/* <Link to={'/'}>
+                <Link to={'/'}>
                   <div>
                     <img
-                      src={Logo}
+                      src="/assets/IJBCI.png"
                       loading='lazy'
                       alt="Website Logo"
                       className=" lg:min-w-40 lg:w-40 min-w-28 w-28 select-none lg:ml-10 ml-8"
@@ -95,8 +94,8 @@ const Header = () => {
                    
                   </div>
 
-                </Link> */}
-                <h2 className="namdhinggo-extrabold text-3xl lg:ml-10 ml-6">IJBCI</h2>
+                </Link>
+                {/* <h2 className="namdhinggo-extrabold text-3xl lg:ml-10 ml-6">IJBCI</h2> */}
                 
               </div>
 

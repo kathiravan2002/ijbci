@@ -32,7 +32,7 @@ function Aboutus() {
                                 The International Journal of Business and Commerce Insights is a peer-reviewed journal dedicated to publishing high-quality research in the fields of business, management, and commerce. IJBCI serves as a platform for academics, researchers, and professionals to share insights that shape global business practices and strategies. The journal encourages interdisciplinary approaches and practical applications that address contemporary challenges in the business world. We are committed to fostering academic excellence and bridging the gap between theory and practice.</p>
 
                             <div className="lg:pl-6 flex justify-center items-center lg:justify-start">
-                                <Link to="" target="_blank" rel="noopener noreferrer">
+                                <Link to="https://www.ijbci.com/ijbci/index.php/ijbci/about/submissions" target="_blank" rel="noopener noreferrer">
                                     <button className="hover:text-[#8A42A7] poppins-regular hover:bg-white lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-white bg-[#8A42A7] border-2 border-white hover:border-2 hover:border-[#8A42A7]  transition-duration duration-300 rounded-lg  ">
                                         <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                                     </button>

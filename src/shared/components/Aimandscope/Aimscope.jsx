@@ -26,7 +26,7 @@ function Aimscope() {
                                 The International Journal of Business and Commerce Insights aims to foster the advancement of knowledge in business, management, and commerce through the publication of high-quality, original research. The journal provides a platform for scholars, practitioners, and policymakers to explore innovative ideas and address contemporary challenges in the global business environment. IJBCI encourages interdisciplinary approaches and practical insights that contribute to academic understanding and industry practices. </p>
 
                             <div className="lg:pl-6 flex justify-center items-center lg:justify-start">
-                                <Link to="" target="_blank" rel="noopener noreferrer">
+                                <Link to="https://www.ijbci.com/ijbci/index.php/ijbci/about/submissions" target="_blank" rel="noopener noreferrer">
                                     <button className="hover:text-[#8A42A7] poppins-regular hover:bg-white lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-white bg-[#8A42A7] border-2 border-white hover:border-2 hover:border-[#8A42A7]  transition-duration duration-300 rounded-lg  ">
                                         <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                                     </button>
